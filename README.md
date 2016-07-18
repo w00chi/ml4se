@@ -1,2 +1,2 @@
 # ml4se
-머신러닝 이론 입문
+Sample scripts of "Machine Learning for Software Engineers"
